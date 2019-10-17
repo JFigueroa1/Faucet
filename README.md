@@ -15,4 +15,4 @@ node js must be installed on the backend side and the nem sdk in order to perfor
 You must enter the password and private key of the account that will work as a faucet in order to perform transactions.
 
 ## Run app
-In order to run the app, raise the html in a browser and have the server running, the server can be run with the "node template" command. The server must be kept running to continue sending transactions.
+In order to run the app, raise the html in a browser and have the server running, the server can be run with the "node main" command. The server must be kept running to continue sending transactions.
